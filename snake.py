@@ -1,4 +1,5 @@
 #coding: utf-8
+#python
 import pygame as pg #importa o modulo
 from random import randrange
 
