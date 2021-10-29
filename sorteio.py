@@ -1,3 +1,4 @@
+#lambda
 def mergeSort(lista):
 
     if len(lista) > 1:
